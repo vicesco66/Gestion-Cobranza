@@ -1,0 +1,8 @@
+backend/.venv/
+backend/sigc.db
+backend/app/__pycache__/
+backend/app/**/*.pyc
+frontend/node_modules/
+frontend/dist/
+.env
+.DS_Store
